@@ -1,0 +1,17 @@
+{
+  "name": "memoize",
+  "version": "1.0.0",
+  "description": "With inspiration from lodash and for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "$(npm bin)/ava test -v"
+  },
+  "author": "Cristian Cavalli",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash.isplainobject": "^4.0.6"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2"
+  }
+}
